@@ -19,7 +19,7 @@ function App() {
         >
           Learn React
         </a>
-        <h1>Hello from V3</h1>
+        <h1>Hello from V4</h1>
         <h1>We now have Auth!</h1>
       </header>
       <AmplifySignOut />
